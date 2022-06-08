@@ -1,1 +1,1 @@
-# test_project
+# cnn을 이용한 홍채인식 시스템 개발
